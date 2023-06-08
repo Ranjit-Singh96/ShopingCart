@@ -1,0 +1,35 @@
+img{
+    width: 70px;
+    height: 60px;
+}
+.content{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.left{
+    margin-left: 15px;
+}
+.count{
+    margin-left: -15px;
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.884);
+    font-weight: bold;
+}
+.navbar{
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+}
+.search{
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+}
+.search-button{
+    border: none;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 4px 6px;
+}
+
+.search-button:hover{
+    box-shadow: 0 2px 4px 2px rgba(241, 9, 9, 0.25);
+}

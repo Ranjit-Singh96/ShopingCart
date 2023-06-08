@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+input{
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+.productlist{
+  display: flex;
+  flex-direction: row;
+}
+.product-style:hover{
+  color: blue;
+}
+.product-container{
+  margin-top: 120px;
+}
